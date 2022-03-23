@@ -1,2 +1,0 @@
-# StormViewer
-# GuessCountry
